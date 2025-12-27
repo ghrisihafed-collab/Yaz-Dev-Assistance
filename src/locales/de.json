@@ -1,0 +1,21 @@
+{
+  "app": {
+    "title": "Yaz Dev Assistance",
+    "welcome": "Willkommen zurück, Hafed",
+    "settings": "Einstellungen",
+    "language": "Sprache"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "tasks": "Aufgaben",
+    "map": "Karte",
+    "news": "Nachrichten",
+    "economy": "Wirtschaft"
+  },
+  "tasks": {
+    "title": "Aufgaben heute",
+    "add_new": "Neue Aufgabe",
+    "placeholder": "Was möchten Sie heute erreichen?",
+    "no_tasks": "Keine Aufgaben. Genießen Sie Ihren Tag!"
+  }
+}

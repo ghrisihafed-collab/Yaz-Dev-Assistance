@@ -1,0 +1,21 @@
+{
+  "app": {
+    "title": "Yaz Dev Assistance",
+    "welcome": "Welcome back, Hafed",
+    "settings": "Settings",
+    "language": "Language"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "tasks": "Tasks",
+    "map": "Map",
+    "news": "News",
+    "economy": "Economy"
+  },
+  "tasks": {
+    "title": "Today's Tasks",
+    "add_new": "Add New Task",
+    "placeholder": "What do you want to achieve today?",
+    "no_tasks": "No tasks yet. Enjoy your day!"
+  }
+}

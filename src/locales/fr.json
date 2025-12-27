@@ -1,0 +1,21 @@
+{
+  "app": {
+    "title": "Yaz Dev Assistance",
+    "welcome": "Bon retour, Hafed",
+    "settings": "Paramètres",
+    "language": "Langue"
+  },
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "tasks": "Tâches",
+    "map": "Carte",
+    "news": "Actualités",
+    "economy": "Économie"
+  },
+  "tasks": {
+    "title": "Tâches du jour",
+    "add_new": "Ajouter une tâche",
+    "placeholder": "Que voulez-vous accomplir aujourd'hui ?",
+    "no_tasks": "Aucune tâche. Profitez de votre journée !"
+  }
+}
